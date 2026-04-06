@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "na": "pnpm exec zenn new:article --slug",
+    "nb": "pnpm exec zenn new:book",
+    "preview": "pnpm exec zenn preview"
   },
   "keywords": [],
   "author": "",
