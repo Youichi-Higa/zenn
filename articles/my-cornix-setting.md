@@ -3,7 +3,7 @@ title: "ぼくのかんがえたさいきょうのCornixせってい ~最小限�
 emoji: "🦁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Keyboard", "キーボード配列", "分割キーボード", "Vim", "Raycast"]
-published: false
+published: true
 ---
 
 Keychronとギズモード・ジャパンが共同開発した[Keychron Orca echo](https://costory.jp/cf-published-sku-groups/1955012598)のクラウドファンディングが6億円に迫るなど、分割キーボードが最近盛り上がってきていますね！
@@ -46,6 +46,9 @@ https://cornixhub.com/beginner-guide
 ![](/images/cornix/cornix_napepro.png)
 
 チャンスがあれば[moNa2](https://booth.pm/ja/items/6376654)も手に入れたいと思っているので、どちらでも同じように操作できるように、moNa2に合わせて左右両端の列は使わないという縛りを入れていたのですが、そのおかげで運指が最小限で済むようになってタイピングが更に快適になるという嬉しい副作用がありました。
+
+キーマップは、CornixHubに載せてあります。
+https://cornixhub.com/post/cmsvlqqh2000162cb4i3poubv
 
 ## Layer 0：文字入力とアプリ呼び出しのレイヤー
 
@@ -189,7 +192,7 @@ RaycastのHotkeyで、よく使うアプリなどを一瞬で呼び出せるよ�
 
 これまでは、外部モニター2枚使って作業していたのですが、アプリを一瞬で切り替えることができるようになると、視線やポインタを大きく移動させることが煩わしくなるので、今はモニター1枚で作業していて、仮想デスクトップさえも使っていません。PC本体の画面はデスクトップを表示したままファイル置き場としてしか使っていないので、外出時にモニターがない環境であっても、最悪PCの画面だけで何とかなりそうだと思っています。
 
-ブラウザに関しても、以前はタブをたくさん開きっぱなしにしていました。しかし[Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=ja)やRaycastのGitHub拡張機能との組み合わせによって、タブ、ブックマーク、履歴、Pull Request、Issueを検索して一瞬で開けるようになったので、用が済んだらすぐ閉じるようになり、タブを探してクリックすることがほぼなくなりました。
+ブラウザに関しても、以前はタブをたくさん開きっぱなしにしていましたが、[Vimium](https://chromewebstore.google.com/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=ja)やRaycastのGitHub拡張機能との組み合わせによって、タブ、ブックマーク、履歴、Pull Request、Issueを検索して一瞬で開けるようになったので、用が済んだらすぐ閉じるようになり、タブを探してクリックすることがかなり減りました。
 
 この境地に至るまでには、Vimの習得やMac・各種ツールのショートカットを覚えることも含めて、とても長い道のりがあったので、安易にはおすすめできませんが、少しでもキーボードに興味を持ってもらい、まずは1つのキーからでも良いので、[Karabiner-Elements](https://karabiner-elements.pqrs.org/)などを使ってキーマップを変更してみようかな、と思ってもらえたら嬉しいです！
 
