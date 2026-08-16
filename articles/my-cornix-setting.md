@@ -22,6 +22,9 @@ Keychronとギズモード・ジャパンが共同開発した[Keychron Orca ech
 アプリ切り替え・サイズ変更とFigmaでの操作
 ![](/images/cornix/demo1_switch_app.gif)
 
+ブラウザとターミナルでの操作
+![](/images/cornix/demo2_browser_terminal.gif)
+
 ## Cornixとは
 
 設定紹介の前に、Cornixについて簡単に説明しておきます。
