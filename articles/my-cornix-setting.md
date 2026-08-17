@@ -4,6 +4,7 @@ emoji: "🦁"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Keyboard", "キーボード配列", "分割キーボード", "Vim", "Raycast"]
 published: true
+publication_name: "ncdc"
 ---
 
 Keychronとギズモード・ジャパンが共同開発した[Keychron Orca echo](https://costory.jp/cf-published-sku-groups/1955012598)のクラウドファンディングが6億円に迫るなど、分割キーボードが最近盛り上がってきていますね！
